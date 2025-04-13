@@ -1,9 +1,5 @@
 # 👋 Hullo pessoal, me chamo Raul Tomaz!
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</div>
-
 ## 🚀 Sobre mim
 Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Embu, com o objetivo de me tornar um Desenvolvedor
 Back-End, ou até mesmo Full-Stack.
@@ -14,5 +10,8 @@ Back-End, ou até mesmo Full-Stack.
 
 ## 🛠️ Habilidades
 - Linguagens: [JavaScript, C#, SQL, Python]
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</div>
 - Frameworks e Bibliotecas: [Node.js, React, ]
 - Outros: []
