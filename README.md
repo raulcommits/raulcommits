@@ -6,8 +6,11 @@ Back-End, ou até mesmo Full-Stack.
 - 💻 Focado em: [Desenvolvimento Back-End]
 - 📚 Atualmente aprendendo: [Node.js, Python]
 - 🎯 Meus interesses: []
-- 🔍 Como me encontrar e entrar em contato: [Instagram -> https://www.instagram.com/raul.tomaz, Linkedln -> https://www.linkedin.com/in/raul-tomaz-244906354/]
-
+- 🔍 Como me encontrar e entrar em contato:
+<div>
+<a src="https://www.instagram.com/raul.tomaz/">
+</div>
+  
 ## 🛠️ Habilidades
 - Linguagens: [JavaScript, C#, SQL, Python]
 <div>
