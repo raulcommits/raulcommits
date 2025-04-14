@@ -10,6 +10,7 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 - 🔍 Como me encontrar e entrar em contato:
 <br>
 <a href="https://www.instagram.com/raul.tomaz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/raul-tomaz-244906354/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
 <a src="https://www.instagram.com/raul.tomaz/">
 </div>
