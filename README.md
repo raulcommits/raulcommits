@@ -13,12 +13,14 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 </div>
   
 ## 🛠️ Habilidades
-- Linguagens: [JavaScript, C#, SQL, Python]
+- Linguagens: [JavaScript, Html, Css, C#, SQL, Python]
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="40" height="40"/>
 </div>
 - Frameworks e Bibliotecas: [Node.js, React, ]
 - Outros: []
