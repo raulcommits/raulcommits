@@ -1,10 +1,11 @@
 # 👋 Hullo pessoal, me chamo Raul Tomaz!
 
 ## 🚀 Sobre mim
-Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Embu, com o objetivo de me tornar um Desenvolvedor
-Back-End, ou até mesmo Full-Stack.
+Estou cursando o Ensino Técnico em Desenvolvimento de Sistemas na Etec de Embu, aprendendo sobre Análise de Projeto e de Dados, Desenvolvimento de Software
+, Regras de Negócios e várias linguagens..(rsrs).
+Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 - 💻 Focado em: [Desenvolvimento Back-End]
-- 📚 Atualmente aprendendo: [Node.js, Python]
+- 📚 Atualmente aprendendo: [Node.js, Python, C++]
 - 🎯 Meus interesses: []
 - 🔍 Como me encontrar e entrar em contato:
 <div>
