@@ -16,7 +16,7 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 </div>
   
 ## 🛠️ Habilidades
-- Linguagens: [JavaScript, Html, Css, C#, SQL, Python]
+- Linguagens: [JavaScript, Html, Css, C#, SQL(MySql), Python]
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -27,3 +27,10 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 </div>
 - Frameworks e Bibliotecas: [Node.js, React, ]
 - Outros: []
+
+<div>
+<a href="https://github.com/raulcommits">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousa33dev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossousa33dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
