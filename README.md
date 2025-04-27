@@ -30,7 +30,7 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 
 <div>
 <a href="https://github.com/raulcommits">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossousa33dev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcossousa33dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulcommits&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raulcommits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
