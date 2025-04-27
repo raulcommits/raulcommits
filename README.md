@@ -28,6 +28,7 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
 - Frameworks e Bibliotecas: [Node.js, React, ]
 - Outros: []
 
+##
 <div>
 <a href="https://github.com/raulcommits">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulcommits&layout=compact&langs_count=7&theme=dracula"/>
