@@ -26,6 +26,9 @@ Pretendo seguir na área como um Desenvolvedor, mais especificamente Back-End.
   <img src="https://icongr.am/devicon/python-original.svg?size=94&color=f3ecec" width="40" height="40"/>
 </div>
 - Frameworks e Bibliotecas: [Node.js, React, ]
+<div>
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40" height="40"/>
+</div>
 - Outros: []
 
 ##
